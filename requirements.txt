@@ -1,0 +1,13 @@
+# Core dependencies
+openai-agents>=0.1.0
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+
+# Email functionality
+sendgrid>=6.10.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipython>=8.0.0
+ipykernel>=6.0.0
+
